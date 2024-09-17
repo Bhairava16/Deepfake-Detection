@@ -25,7 +25,7 @@ This project is a deepfake detection system developed using EfficientNet B4 CNN 
 
 ### Application Interface
 
-![DeepFake Detector Interface](<Insert-Image-URL-1>)
+![DeepFake Detector Interface](https://github.com/Bhairava16/Deepfake-Detection/blob/main/Screenshot%202024-09-03%20222857.png)
 
 ![Image Processing Results](https://github.com/Bhairava16/Deepfake-Detection/blob/main/Screenshot%202024-09-03%20223549.png)
 
