@@ -29,10 +29,3 @@ This project is a deepfake detection system developed using EfficientNet B4 CNN 
    ```bash
      git clone https://github.com/username/deepfake-detector.git
    
-2.**Install dependencies**:
-   ```bash
-       pip install -r requirements.txt
-
-3.**Run the Streamlit app**:
-   ```bash
-       streamlit run app.py
