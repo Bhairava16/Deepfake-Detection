@@ -23,6 +23,14 @@ This project is a deepfake detection system developed using EfficientNet B4 CNN 
 2. **Processing**: The image is processed through the EfficientNet B4 model, which extracts features and classifies whether the image is real or fake.
 3. **Results**: The app outputs the classification result with a label (real or fake) and the model's probability score.
 
+### Application Interface
+
+![DeepFake Detector Interface](<Insert-Image-URL-1>)
+
+![Image Processing Results](<Insert-Image-URL-2>)
+
+![Limitations Section](<Insert-Image-URL-3>)
+
 ## Setup and Installation
 
 1. **Clone the repository**:
