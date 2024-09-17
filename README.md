@@ -27,5 +27,5 @@ This project is a deepfake detection system developed using EfficientNet B4 CNN 
 
 1. **Clone the repository**:
    ```bash
-     git clone https://github.com/username/deepfake-detector.git
+     git clone https://github.com/Bhairava16/Deepfake-Detection.git
    
